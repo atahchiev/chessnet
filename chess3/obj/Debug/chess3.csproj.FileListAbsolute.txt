@@ -1,1 +1,7 @@
 C:\Users\SpectrumRead\Desktop\Chess_2\chess3\chess3\bin\Debug\chess3.exe.config
+C:\Users\k.panov\Desktop\chessnet\chess3\bin\Debug\chess3.exe.config
+C:\Users\k.panov\Desktop\chessnet\chess3\bin\Debug\chess3.exe
+C:\Users\k.panov\Desktop\chessnet\chess3\bin\Debug\chess3.pdb
+C:\Users\k.panov\Desktop\chessnet\chess3\obj\Debug\chess3.csprojResolveAssemblyReference.cache
+C:\Users\k.panov\Desktop\chessnet\chess3\obj\Debug\chess3.exe
+C:\Users\k.panov\Desktop\chessnet\chess3\obj\Debug\chess3.pdb
